@@ -4,3 +4,5 @@ git status => to list untracked files
 git add -A => adding all files to staging area
 gti commit -m "message" =>
 moving staged files to local repository
+
+git config --global user.name "name of user"
