@@ -6,3 +6,5 @@ gti commit -m "message" =>
 moving staged files to local repository
 
 git config --global user.name "name of user"
+
+gti remote add name path of remote
